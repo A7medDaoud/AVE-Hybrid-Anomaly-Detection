@@ -71,13 +71,6 @@ The complete implementation of the **AVE hybrid model** is publicly available at
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🧠 Keywords
 
 Anomaly Detection · Outlier Detection · Autoencoder · Variational Autoencoder · Hybrid Model · Deep Learning · Scientific Reports
@@ -90,3 +83,11 @@ For any inquiries or collaborations, please contact:
 
 - **Ahmed M. Daoud** — 📧 [AMDaoud@fci.zu.edu.eg](mailto:AMDaoud@fci.zu.edu.eg)  
 - **Khalid M. Hosny** — 📧 [k_hosny@zu.edu.eg](mailto:k_hosny@zu.edu.eg)
+
+---
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
+
+---
