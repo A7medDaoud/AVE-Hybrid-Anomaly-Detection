@@ -35,3 +35,35 @@ To reproduce the results, install dependencies using pip:
 
 ```bash
 pip install -r requirements.txt
+
+Tested with:
+Python 3.10
+numpy==1.24.0
+pandas==1.5.1
+scipy==1.10.1
+tensorflow==2.17.0
+keras==3.5.0
+matplotlib==3.6.2
+seaborn==0.12.2
+
+🚀 Usage
+. Training the Model
+open and run the Jupyter notebook to train the AVE hybrid model:
+jupyter notebook AVE.ipynb
+
+🧮 Code Availability
+The implementation of the AVE hybrid model is openly available at:
+🔗 https://github.com/A7medDaoud/AVE-Hybrid-Anomaly-Detection
+
+📄 License
+This project is released under the MIT License.
+See LICENSE for details.
+
+🧠 Keywords
+Anomaly Detection · Outlier Detection · Autoencoder · Variational Autoencoder · Hybrid Model · Deep Learning · Scientific Reports
+
+
+🧾 Contact
+For any inquiries or collaborations, please contact:
+Ahmed M. Daoud – AMDaoud@fci.zu.edu.eg
+Khalid M. Hosny – k_hosny@zu.edu.eg
