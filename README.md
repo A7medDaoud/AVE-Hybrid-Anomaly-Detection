@@ -31,50 +31,62 @@ In this study, we propose a hybrid model, **AVE**, that fuses AE and VAE to achi
 ---
 
 ## ⚙️ Installation
-To reproduce the results, install dependencies using pip:
+
+To reproduce the results, install all dependencies using:
 
 ```bash
 pip install -r requirements.txt
+```
+
+### Tested Environment
+
+- **Python:** 3.10  
+- **NumPy:** 1.24.0  
+- **Pandas:** 1.5.1  
+- **SciPy:** 1.10.1  
+- **TensorFlow:** 2.17.0  
+- **Keras:** 3.5.0  
+- **Matplotlib:** 3.6.2  
+- **Seaborn:** 0.12.2  
 
 ---
 
-Tested with:
-Python 3.10
-numpy==1.24.0
-pandas==1.5.1
-scipy==1.10.1
-tensorflow==2.17.0
-keras==3.5.0
-matplotlib==3.6.2
-seaborn==0.12.2
+## 🚀 Usage
 
----
+### 🧠 Training the Model
+To train the **AVE hybrid model**, open and run the Jupyter notebook:
 
-🚀 Usage
-. Training the Model
-open and run the Jupyter notebook to train the AVE hybrid model:
+```bash
 jupyter notebook AVE.ipynb
+```
+
+This notebook contains all necessary steps for data preprocessing, model training, and evaluation.
 
 ---
 
-🧮 Code Availability
-The implementation of the AVE hybrid model is openly available at:
-🔗 https://github.com/A7medDaoud/AVE-Hybrid-Anomaly-Detection
+## 🧮 Code Availability
+
+The complete implementation of the **AVE hybrid model** is publicly available at:  
+🔗 [https://github.com/A7medDaoud/AVE-Hybrid-Anomaly-Detection](https://github.com/A7medDaoud/AVE-Hybrid-Anomaly-Detection)
 
 ---
 
-📄 License
-This project is released under the MIT License.
-See LICENSE for details.
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
-🧠 Keywords
+## 🧠 Keywords
+
 Anomaly Detection · Outlier Detection · Autoencoder · Variational Autoencoder · Hybrid Model · Deep Learning · Scientific Reports
 
 ---
 
-🧾 Contact
+## 🧾 Contact
+
 For any inquiries or collaborations, please contact:
-Ahmed M. Daoud – AMDaoud@fci.zu.edu.eg
-Khalid M. Hosny – k_hosny@zu.edu.eg
+
+- **Ahmed M. Daoud** — 📧 [AMDaoud@fci.zu.edu.eg](mailto:AMDaoud@fci.zu.edu.eg)  
+- **Khalid M. Hosny** — 📧 [k_hosny@zu.edu.eg](mailto:k_hosny@zu.edu.eg)
